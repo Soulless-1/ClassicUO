@@ -165,6 +165,9 @@
   <data name="AlwaysRunHidden" xml:space="preserve">
     <value>Unless hidden</value>
   </data>
+  <data name="UseFastRotation" xml:space="preserve">
+    <value>Use fast rotation</value>
+  </data>
   <data name="AutoOpenCorpses" xml:space="preserve">
     <value>Auto Open Corpses</value>
   </data>
