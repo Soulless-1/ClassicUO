@@ -43,7 +43,7 @@ Or visit the [ClassicUO Website](https://www.classicuo.eu/)
 
 # How to generate a release build
 ```
-git clone --recursive https://github.com/ClassicUO/ClassicUO.git
+git clone --recursive https://github.com/Soulless-1/ClassicUO.git
 cd ClassicUO/scripts
 bash build-naot.sh
 ```
