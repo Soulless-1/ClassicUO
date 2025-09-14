@@ -215,7 +215,7 @@ Hue: {1}</value>
   <data name="AlwaysRunIsNowOff" xml:space="preserve">
     <value>Always run is now off.</value>
   </data>
-    <data name="UseFastRotationIsNowOff" xml:space="preserve">
+  <data name="UseFastRotationIsNowOff" xml:space="preserve">
     <value>Fast rotation is now off.</value>
   </data>
   <data name="UseFastRotationIsNowOn" xml:space="preserve">
