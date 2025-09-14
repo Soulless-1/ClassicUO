@@ -3488,7 +3488,7 @@ namespace ClassicUO.Game.UI.Gumps
                     _useShiftPathfind.IsChecked = false;
                     _alwaysRun.IsChecked = false;
                     _alwaysRunUnlessHidden.IsChecked = false;
-					_useFastRotation.IsChecked = true;
+					//_useFastRotation.IsChecked = true;
                     _showHpMobile.IsChecked = false;
                     _hpComboBox.SelectedIndex = 0;
                     _hpComboBoxShowWhen.SelectedIndex = 0;
@@ -3716,7 +3716,7 @@ namespace ClassicUO.Game.UI.Gumps
             _currentProfile.UseShiftToPathfind = _useShiftPathfind.IsChecked;
             _currentProfile.AlwaysRun = _alwaysRun.IsChecked;
             _currentProfile.AlwaysRunUnlessHidden = _alwaysRunUnlessHidden.IsChecked;
-			_currentProfile.UseFastRotation = _useFastRotation.IsChecked;
+			//_currentProfile.UseFastRotation = _useFastRotation.IsChecked;
             _currentProfile.ShowMobilesHP = _showHpMobile.IsChecked;
             _currentProfile.HighlightMobilesByPoisoned = _highlightByPoisoned.IsChecked;
             _currentProfile.HighlightMobilesByParalize = _highlightByParalyzed.IsChecked;
