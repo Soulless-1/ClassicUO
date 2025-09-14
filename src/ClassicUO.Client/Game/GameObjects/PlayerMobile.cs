@@ -540,8 +540,8 @@ namespace ClassicUO.Game.GameObjects
             sbyte oldZ = z;
             ushort walkTime = Constants.TURN_DELAY;
 	    
-			if (UseFastRotation)
-				ushort walkTime = Constants.TURN_DELAY_FAST;
+			//if (UseFastRotation)
+			//	ushort walkTime = Constants.TURN_DELAY_FAST;
 
             if ((oldDirection & Direction.Mask) == (direction & Direction.Mask))
             {
