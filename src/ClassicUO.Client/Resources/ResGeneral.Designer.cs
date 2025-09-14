@@ -104,6 +104,24 @@ namespace ClassicUO.Resources {
                 return ResourceManager.GetString("AlwaysRunIsNowOn", resourceCulture);
             }
         }
+		
+		        /// <summary>
+        ///   Looks up a localized string similar to Fast rotation is now off..
+        /// </summary>
+        public static string FastRotationIsNowOff {
+            get {
+                return ResourceManager.GetString("FastRotationIsNowOff", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Fast rotation is now on..
+        /// </summary>
+        public static string FastRotationIsNowOn {
+            get {
+                return ResourceManager.GetString("FastRotationIsNowOn", resourceCulture);
+            }
+        }
         
         /// <summary>
         ///   Looks up a localized string similar to A storm is brewing..
