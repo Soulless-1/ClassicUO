@@ -3501,7 +3501,7 @@ namespace ClassicUO.Game.UI.Gumps
                     _useShiftPathfind.IsChecked = false;
                     _alwaysRun.IsChecked = false;
                     _alwaysRunUnlessHidden.IsChecked = false;
-					_useFastRotation.IsChecked = true;
+					//_useFastRotation.IsChecked = true;
                     _showHpMobile.IsChecked = false;
                     _hpComboBox.SelectedIndex = 0;
                     _hpComboBoxShowWhen.SelectedIndex = 0;
