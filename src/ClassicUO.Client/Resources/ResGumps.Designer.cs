@@ -266,6 +266,15 @@ namespace ClassicUO.Resources {
                 return ResourceManager.GetString("AlwaysRunHidden", resourceCulture);
             }
         }
+		
+		/// <summary>
+        ///   Looks up a localized string similar to Use fast rotation.
+        /// </summary>
+        public static string UseFastRotation {
+            get {
+                return ResourceManager.GetString("UseFastRotation", resourceCulture);
+            }
+        }
         
         /// <summary>
         ///   Looks up a localized string similar to Always use fullsize game window.
