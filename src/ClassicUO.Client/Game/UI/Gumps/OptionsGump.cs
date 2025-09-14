@@ -517,17 +517,17 @@ namespace ClassicUO.Game.UI.Gumps
                 )
             );
 			
-			section.Add
-            (
-                _useFastRotation = AddCheckBox
-                (
-                    null,
-                    ResGumps.UseFastRotation,
-                    _currentProfile.UseFastRotation,
-                    startX,
-                    startY
-                )
-            );
+			//section.Add
+            //(
+            //    _useFastRotation = AddCheckBox
+            //    (
+            //        null,
+            //        ResGumps.UseFastRotation,
+            //        _currentProfile.UseFastRotation,
+            //        startX,
+            //        startY
+            //    )
+            //);
 
             section.Add
             (
