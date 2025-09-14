@@ -215,6 +215,12 @@ Hue: {1}</value>
   <data name="AlwaysRunIsNowOff" xml:space="preserve">
     <value>Always run is now off.</value>
   </data>
+    <data name="UseFastRotationIsNowOff" xml:space="preserve">
+    <value>Fast rotation is now off.</value>
+  </data>
+  <data name="UseFastRotationIsNowOn" xml:space="preserve">
+    <value>Fast rotation is now on.</value>
+  </data>
   <data name="TargetSystemNotImplemented" xml:space="preserve">
     <value>[WARN] - TargetSystem On/Off not implemented</value>
   </data>
