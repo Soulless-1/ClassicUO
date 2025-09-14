@@ -76,6 +76,7 @@ namespace ClassicUO.Game.UI.Gumps
                          _useShiftPathfind,
                          _alwaysRun,
                          _alwaysRunUnlessHidden,
+						 _useFastRotation,
                          _showHpMobile,
                          _highlightByPoisoned,
                          _highlightByParalyzed,
